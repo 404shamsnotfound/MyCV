@@ -41,14 +41,14 @@
  - Edited Spikes Of Design
  - Worked On The Back-end
  - Fixed Existing Bugs And Added Features For Lessons .
--  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="40" height="30">
+-  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="30" height="30">
 
 
 ### Advanced Energy Systems
 **An Internal Social Network For ADES Group**
 
  - Developed The Admin Panel And API's For Mobile App ( Chatting System / Video / Audio Calls / Streaming Videos / Profile and Groups ).
--  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30">  &nbsp;&nbsp;   <img src="https://www.gstatic.com/devrel-devsite/prod/v29345390480661f31f1340a20aede1ba9b8f625badf7470697c2e7672c91fc58/firebase/images/lockup.png" width="100" height="30">&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" width="35" height="30">&nbsp;&nbsp; <img src="https://www.gstatic.com/devrel-devsite/prod/v29345390480661f31f1340a20aede1ba9b8f625badf7470697c2e7672c91fc58/webrtc/images/lockup.svg" width="120" height="30">&nbsp;&nbsp;   <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" width="120" height="30">
+-  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30">  &nbsp;&nbsp;   <img src="https://www.gstatic.com/devrel-devsite/prod/v29345390480661f31f1340a20aede1ba9b8f625badf7470697c2e7672c91fc58/firebase/images/lockup.png" width="100" height="30">&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" width="30" height="30">&nbsp;&nbsp; <img src="https://www.gstatic.com/devrel-devsite/prod/v29345390480661f31f1340a20aede1ba9b8f625badf7470697c2e7672c91fc58/webrtc/images/lockup.svg" width="120" height="30">&nbsp;&nbsp;   <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" width="120" height="30">
 
 
 
@@ -62,7 +62,7 @@
 **An Online Store For Handmade Accessories , Prints and Carpets**
 
  - Developed/Designed The Store With Shipping DHL / Online Payment.
--  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30">  &nbsp;&nbsp;   <img src="https://www.gstatic.com/devrel-devsite/prod/v29345390480661f31f1340a20aede1ba9b8f625badf7470697c2e7672c91fc58/firebase/images/lockup.png" width="100" height="30">&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" width="35" height="30">
+-  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30">  &nbsp;&nbsp;   <img src="https://www.gstatic.com/devrel-devsite/prod/v29345390480661f31f1340a20aede1ba9b8f625badf7470697c2e7672c91fc58/firebase/images/lockup.png" width="100" height="30">&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" width="30" height="30">
 ### Marakez [link](http://www.marakez-projects.com/)
 **One Page Website For The District 5 Project**
 
@@ -73,18 +73,18 @@
 **A Professional Social Network For Players To Marketing Themselves**
 
  - Developed The Admin Panel , API's For Mobile App and The Website ( Chatting System / Video / Audio Calls / Streaming Videos / Profile and Groups ).
--  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30">  &nbsp;&nbsp;   <img src="https://www.gstatic.com/devrel-devsite/prod/v29345390480661f31f1340a20aede1ba9b8f625badf7470697c2e7672c91fc58/firebase/images/lockup.png" width="100" height="30">&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" width="35" height="30">&nbsp;&nbsp; <img src="https://www.gstatic.com/devrel-devsite/prod/v29345390480661f31f1340a20aede1ba9b8f625badf7470697c2e7672c91fc58/webrtc/images/lockup.svg" width="120" height="30">&nbsp;&nbsp;   <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" width="120" height="30">
+-  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30">  &nbsp;&nbsp;   <img src="https://www.gstatic.com/devrel-devsite/prod/v29345390480661f31f1340a20aede1ba9b8f625badf7470697c2e7672c91fc58/firebase/images/lockup.png" width="100" height="30">&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" width="30" height="30">&nbsp;&nbsp; <img src="https://www.gstatic.com/devrel-devsite/prod/v29345390480661f31f1340a20aede1ba9b8f625badf7470697c2e7672c91fc58/webrtc/images/lockup.svg" width="120" height="30">&nbsp;&nbsp;   <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" width="120" height="30">
 
 ### Camelicious [website](https://camelicious.com) , [store](https://store.camelicious.com/)
 **Website And Store For Camelicious Products In Emirates**
 
  - Adding New Features Developed / Designed The Website and The Store.
--  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30"> &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="40" height="30">
+-  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30"> &nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="30" height="30">
 ### SIMOPS
 **Web App For Map Indicator For Safety And Maintenance**
 
  - Developed / Designed The Application On Users/Admins .
--    <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" width="35" height="30">
+-    <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" width="30" height="30">
 ### Bekia [link](https://www.bekia-egypt.com/)
 **Web App For Operators Of Bekia, Marketplace Where Users Exchange Their Household Waste For Money**
 
