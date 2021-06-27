@@ -29,12 +29,12 @@
 **The website for ERG, including viewing and managing projects / units / campaigns / generating and exporting reports to Google Sheets.**
 
  - Developed The Front-end / Back-end For Website and The Admin Panel.
--  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30"> &nbsp;&nbsp;   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="50" height="30"> &nbsp;&nbsp;   <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" width="120" height="30">
+-  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30"> &nbsp;&nbsp;   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="30" height="30"> &nbsp;&nbsp;   <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" width="120" height="30">
 ### SMS Egypt
 **An App For Managing SMS Ad Campaigns**
 
  - Designed The Mobile UI/UX ,Developed Back-end and The Admin Panel.
--  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30"> &nbsp;&nbsp;   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="50" height="30"> &nbsp;&nbsp;   <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" width="120" height="30">
+-  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30"> &nbsp;&nbsp;   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="30" height="30"> &nbsp;&nbsp;   <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" width="120" height="30">
 ### Madrasa ( Sheikh Mohammed Bin Rashid Al Maktoum Global Initiatives )  [link](https://madrasa.org/)
 **School is a Leading E-Learning Platform , The First Of Kind In The Arab World**
 
@@ -89,7 +89,7 @@
 **Web App For Operators Of Bekia, Marketplace Where Users Exchange Their Household Waste For Money**
 
  - Adding New Features Developed/Designed  The Front-end / Back-end For Website , Admin Panel and Mobile API's.
--  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30"> &nbsp;&nbsp;   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="50" height="30"> 
+-  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" height="30"> &nbsp;&nbsp;<img src="https://laravel.com/img/logomark.min.svg" width="50" height="30"><img src="https://laravel.com/img/logotype.min.svg" width="100" height="30"> &nbsp;&nbsp;   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="30" height="30"> 
 
 
 ## <center> Personal Information</center>
