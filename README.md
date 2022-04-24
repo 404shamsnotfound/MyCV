@@ -2,7 +2,7 @@
 ## <center>[404shamsnotfound@gmail.com](mailto:%20404shamsnotfound@gmail.com)  |  [linkedin.com/in/ahmedshamseldin](https://www.linkedin.com/in/ahmedshamseldin/)</center>
 ## <center>Summary</center>
 
- - A mid-level Software Engineer with **4+ years** of experience and a Computer-Science degree.
+ -  Senior Software Engineer with **6+ years** of experience and a Computer-Science degree.
  -  Full-stack, Worked On The Back-end With Multiple Stacks Mainly **LAMP** ( **Linux , Apache , MySQL , PHP** ).
  -  Worked On The Front-end With **Vue** and **Angular** / **Typescript** .
  -  Open and Used To Learning New Languages, Technologies, and Frameworks.
@@ -105,7 +105,7 @@
  - Fixing some bugs / Adding Integration with Bank 
 -  <img src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.png" width="30" height="30">&nbsp;&nbsp; <img src="https://nodejs.org/static/images/logo.svg" width="70" height="35">
 
-## 247Labs
+## 247Labs (Canadian Tech. Company)
 ### Alairhomes 
 **Internal Application For Alairhomes Clients To Tracking Thier Homes**
 
@@ -124,12 +124,6 @@
  - Developing/Designing The Full Application / Developing Block Chain / Network / Peers 
 -  <img src="https://cn.hyperledger.org/wp-content/uploads/2018/04/fabric-logo-768x473.png" width="100" height="50"> &nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/26932219?v=4" width="30" height="30"> &nbsp;&nbsp;  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="30" height="30"> &nbsp;&nbsp;   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="30" height="30"> &nbsp;&nbsp; 
   
-  
-### Address Chainer 
-**HyperLedger Fabric Based Application To Tracking Loans**
-
- - Developing/Designing The Full Application / Developing Block Chain / Network / Peers 
--  <img src="https://cn.hyperledger.org/wp-content/uploads/2018/04/fabric-logo-768x473.png" width="100" height="50"> &nbsp;&nbsp;<img src="https://avatars.githubusercontent.com/u/26932219?v=4" width="30" height="30"> &nbsp;&nbsp;  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="30" height="30"> &nbsp;&nbsp;   <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" width="30" height="30"> &nbsp;&nbsp; 
 
 ### AI Learner
 **Scanning Images By Mobile and Learning From It For Helping LMS In Canada**
